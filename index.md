@@ -32,6 +32,20 @@ Ein paar Startpunkte:
 
 In der Suchleiste oben rechts können beliebige Themen eingegeben werden, die Seite schlägt via Autocomplete Themen vor.
 
+<video controls src="/generate.mp4"></video>
+
+### Erzeugung von Unterräumen pro Kapitel
+
+Die Kapitelstruktur von Wikipedia-Artikeln wird in eine 3D-Raumstruktur umgesetzt, die erkundet werden können.
+
+<video controls src="/rundgang.mp4"></video>
+
+### Layouting der Räume
+
+Die Räume werden so zusammengesetzt, dass sie insgesamt möglichst wenig Platz einnehmen und eine ansprechende 3D-Ausstellung ergeben.
+
+<video controls src="/flug.mp4"></video>
+
 ### Unterstützung beliebiger MediaWikis
 
 MediaWiki ist die Software hinter Projekten wie Wikipedia, und weil sie eine einheitliche Programmierschnittstelle anbietet, kann die Everything Exhibition aus allen davon Informationen entnehmen.
@@ -40,9 +54,13 @@ MediaWiki ist die Software hinter Projekten wie Wikipedia, und weil sie eine ein
 - [Zuko](https://blinry.github.io/everything-exhibition/#https://avatar.fandom.com/wiki/Zuko) aus "Avatar: The Last Airbender" auf fandom.com
 - [Museum](https://blinry.github.io/everything-exhibition/#https://de.wiktionary.org/wiki/Museum) in Wiktionary
 
+<video controls src="/fandom.mp4"></video>
+
 ### Multiplayer
 
 Die Everything Exhibition erlaubt das Erkunden der Ausstellungen in Gruppen! Wie in einem Onlinespiel können sich mehrere Personen über das Internet zusammenschließen und sich dann im 3D-Raum als bunte Avatare sehen. So kann man sich beispielsweise in einer Onlinekonferenz zusammenschließen und gemeinsam ein Thema erkunden. Man kann sich einen Namen, eine Farbe und einen Gesichtsausdruck geben.
+
+<video controls src="/multiplayer.mp4"></video>
 
 ### Mehrsprachigkeit
 
@@ -52,13 +70,19 @@ Hier ist beispielsweise eine [bayrische Ausstellung über Brezeln](https://blinr
 
 Durch Eingabe des Sprachcodes in der Box oben links (zum Beispiel "ja" für Japanisch oder "fr" für Französisch) können Ausstellungen in beliebigen anderen Sprachen generiert werden.
 
+<video controls src="/mehrsprachigkeit.mp4"></video>
+
 ### Gemeinsam Zeichnen
 
 Per Linksklick können alle Spielenden auf die Oberflächen des Museums malen, und so bestimmte Abschnitte markieren oder sich auf andere Inhalte hinweisen.
 
+<video controls src="/zeichnen.mp4"></video>
+
 ### Verlinkungen
 
 Durch Klick auf einen blau hinterlegten Link kann man zu einem anderen Thema springen, und so mehr überverwandte Theengebiete lernen. Wenn man wieder zurück zum vorigen Thema möchte, gibt es neben dem Haupteingang der Ausstellung eine Verknüpfung, die zurückführt.
+
+<video controls src="/links.mp4"></video>
 
 ## Vortrag auf der FOSDEM 2022 (Englisch)
 
